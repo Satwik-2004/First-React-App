@@ -2,8 +2,13 @@
 
 A beginner-friendly React application to learn the fundamentals of React development.
 
+## 🚀 Live Demo
+
+Check out the live application: [https://gilded-beijinho-eb3b5a.netlify.app/](https://gilded-beijinho-eb3b5a.netlify.app/)
+
 ## Table of Contents
 
+- [Live Demo](#-live-demo)
 - [About](#about)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
@@ -122,6 +127,7 @@ Builds the app for production to the `build` folder.
 - **JavaScript (ES6+)** - Programming language
 - **Node.js** - Runtime environment
 - **npm/yarn** - Package managers
+- **Netlify** - Hosting and deployment platform
 
 ## Learning Resources
 
